@@ -21,7 +21,7 @@ Parts list
 
 Notice
 ======
-- Please note: All files are given for laser cutting. If you plan to do with a CNC we must consider the ["Corner Overcut"](https://www.google.ch/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=Corner+Overcut) option on the long slots (top and bottom plates), or edit files for your configuration. 
+- All files are given for laser cutting. If you plan to do with a CNC we must consider the ["Corner Overcut"](https://www.google.ch/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=Corner+Overcut) option on the long slots (top and bottom plates), or edit files for your configuration. 
 - I made some changes between the published version and the prototype. I do not guarantee anything for the moment, build at your own risk.
 - Sorry for my English, thank you.
 
